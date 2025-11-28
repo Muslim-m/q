@@ -1,0 +1,19 @@
+
+Katalog changes to 12-инвест каталог sheet1.xlsx, whereas  basa changes to table_data - 2025-11-28T171733.084.xlsx
+Now, i send you ready code , you have to adjust following columns in both tables .please write perfect and no-debug code for me .
+12-инвест каталог sheet1.xlsx is first table , table_data - 2025-11-28T171733.084.xlsx is second table .
+C:\Users\sh.roziyev\Desktop\Statics\.venv\Scripts\python.exe C:\Users\sh.roziyev\Desktop\Statics\scr\end_november.py
+First Excel File (df1) Columns:
+Index(['okpo', 'inn', 'name', 'SOATO-4', 'SOATO-7', 'SOATO', 'CSDP', 'OPF',
+       'SKFS', 'OKED', 'SOOGU', 'CHISL', 'PTP', 'STATUS', 'Holati',
+       'Reg.Date'],
+      dtype='object')
+
+Second Excel File (df2) Columns:
+Index(['Tartib raqami', 'STIR', 'KTUT', 'MHOBT', 'Hisobot nomi',
+       'Hisobot davri', 'Topshirilgan vaqti', 'Ohirgi topshirgan vaqti',
+       'Tekshirilgan vaqti', 'Joriy holati', 'Inspektor'],
+      dtype='object')
+
+Process finished with exit code 0
+
